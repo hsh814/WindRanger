@@ -1,4 +1,3 @@
 go_install/
-fuzz/
-instrument/
+windranger/
 go*.tar.gz
