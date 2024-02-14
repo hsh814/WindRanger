@@ -1,0 +1,4 @@
+go_install/
+fuzz/
+instrument/
+go*.tar.gz
